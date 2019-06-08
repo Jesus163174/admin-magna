@@ -1,0 +1,56 @@
+
+// Fonts
+
+
+// Variables
+@import 'variables';
+
+
+.content-form{
+	padding: 40px !important;
+}
+.margen-izquierda{
+	margin-left: 15px;
+}
+.margen-top{
+	margin-top: 8px !important;
+}
+.invalid-feedback{
+	color:red !important;
+}
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	top:400px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	z-index: 1000;
+	&:hover{
+		color:#fff;
+	}
+}
+
+.my-float{
+	margin-top:22px;
+}
+.is-invalid{
+	border:1px solid red !important;
+}
+.strong-sale{
+	font-size: 18px !important;
+	font-weight: bold !important;
+}
+.total-number{
+	color:red;
+}
+.pagado{
+	background: green;
+}
+
+

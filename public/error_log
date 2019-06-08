@@ -1,0 +1,3 @@
+[18-May-2019 01:15:17 UTC] PHP Warning:  require(/home/italcom/public_html/magnacomunicaciones.com.mx/../../aplicacion-magna/vendor/autoload.php): failed to open stream: No such file or directory in /home/italcom/public_html/magnacomunicaciones.com.mx/index.php on line 24
+[18-May-2019 01:15:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/italcom/public_html/magnacomunicaciones.com.mx/../../aplicacion-magna/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/italcom/public_html/magnacomunicaciones.com.mx/index.php on line 24
+[18-May-2019 01:18:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/italcom/aplicacion-magna/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
